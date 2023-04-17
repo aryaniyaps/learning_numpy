@@ -1,2 +1,2 @@
 # Data Science Notes
-- [Learning numpy](./learning_numpy.ipynb)
+- [Learning numpy](./notes/numpy.ipynb)
